@@ -1,0 +1,6 @@
+.vscode
+python/
+*.json
+*.session
+get.php
+config.php
